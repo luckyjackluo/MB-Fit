@@ -1,2 +1,2 @@
-from .distribution_function import DistributionFunction, LinearDistributionFunction, LogarithmicDistributionFunction, \
+from .distribution_function_inner import DistributionFunction, LinearDistributionFunction, LogarithmicDistributionFunction, \
     ConstantDistributionFunction, PiecewiseDistributionFunction, RandomDistributionFunction, GeometricDistributionFunction
